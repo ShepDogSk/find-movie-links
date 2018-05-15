@@ -1,0 +1,7 @@
+~
+*.sw*
+*.out
+*.log
+*.idea
+*.DS_Store
+/node_modules/
