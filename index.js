@@ -153,8 +153,8 @@ async.parallel({
 
   });
 
-  spinners.on('err', (spinner) => {
-    console.log(`${chalk.red(`Error`)}: Daco sa dojebalo, kontaktuj admina`);
+  spinners.on('err', () => {
+    console.log(`${chalk.red(`Error`)}: No work no fun `);
     process.exit(1);
   });
 
