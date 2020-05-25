@@ -1,20 +1,20 @@
 {
   "name": "find-movie-links",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Find movie links",
   "main": "index.js",
   "author": "ShepDogSk",
   "license": "ISC",
   "dependencies": {
-    "async": "2.6.0",
-    "chalk": "2.4.0",
-    "cli-spinner": "0.2.8",
-    "command-line-args": "5.0.2",
+    "async": "3.2.0",
+    "chalk": "4.0.0",
+    "cli-spinner": "0.2.10",
+    "command-line-args": "5.1.1",
     "csfd": "0.0.3",
-    "imdb-node-api": "0.0.1-beta.4",
-    "lodash": "4.17.10",
+    "imdb-node-api": "0.1.0",
+    "lodash": "4.17.15",
     "multispinner": "0.2.1",
-    "youtube-search": "1.1.0"
+    "youtube-search": "1.1.4"
   },
   "devDependencies": {},
   "scripts": {
