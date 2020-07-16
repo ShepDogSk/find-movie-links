@@ -12,7 +12,7 @@
     "command-line-args": "5.1.1",
     "csfd": "0.0.3",
     "imdb-node-api": "0.1.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "multispinner": "0.2.1",
     "youtube-search": "1.1.4"
   },
